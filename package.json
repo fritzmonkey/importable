@@ -1,0 +1,23 @@
+{
+  "name": "importable",
+  "version": "0.0.1",
+  "description": "Is that joyous JDM jalopy justly importable into our juggernaut of a Jesus loving jurisdiction?",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fritzmonkey/importable.git"
+  },
+  "author": "geoff.j.wall@asu.edu",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fritzmonkey/importable/issues"
+  },
+  "homepage": "https://github.com/fritzmonkey/importable#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
